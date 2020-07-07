@@ -1,4 +1,6 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib Exercise
+
+![Image from Python for Undergraduate Engineers](https://pythonforundergradengineers.com/posts/matplotlib/images/four_logos.png)
 
 ## Background
 
@@ -72,4 +74,4 @@ Here are some final considerations:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved. Image retrive from Python for Undergraduate Engineers on 06/07/2020
