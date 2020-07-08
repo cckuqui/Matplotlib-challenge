@@ -1,6 +1,6 @@
 # Matplotlib Exercise
 
-The objetive of this exercise is to work with `matplotlib.plot` to generate plots and to see the diference between it and `pandas.DataFrame.plot()`. For this I worked with some fake data about anti-cancer pharmaceuticals and their animal study.
+The objetive of this exercise is to work with `matplotlib.plot()` to generate plots and to see the diference between it and `pandas.DataFrame.plot()`. For this I worked with some fake data about anti-cancer pharmaceuticals and their animal study.
 
 ![Image from Python for Undergraduate Engineers](https://pythonforundergradengineers.com/posts/matplotlib/images/four_logos.png)
 
