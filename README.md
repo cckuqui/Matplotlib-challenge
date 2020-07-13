@@ -71,4 +71,4 @@ The purpose of this study was to compare the performance of drug of interest, Ca
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved. Image retrive from Python for Undergraduate Engineers on 06/07/2020
+Image retrive from Python for Undergraduate Engineers on 06/07/2020
